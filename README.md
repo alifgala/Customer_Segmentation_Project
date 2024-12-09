@@ -28,4 +28,5 @@ Participating in this program sharpened my skills in data analysis, visualizatio
 I am eager to collaborate with like-minded professionals to implement these data-driven approaches in real-world business scenarios. Let’s connect!
 
 📌 linkedin.com/in/alifgalabuana
+
 #BusinessIntelligence #DataScience #CustomerSegmentation #RFMAnalysis #MarketingStrategy #OpenToCollaboration
